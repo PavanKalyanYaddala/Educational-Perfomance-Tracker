@@ -1,0 +1,26 @@
+body
+{
+    width: 100%;
+    height: auto;
+    background-image: linear-gradient(90deg,#7f00ff,#e100ff);
+}
+.pagename
+{
+	text-align:center;
+}
+.ed
+{
+    width: 500px;
+    height: 50vh;
+    margin: 0px auto;
+    background-color: white;
+    border-radius: 0.5cm;
+}
+#ent
+{
+    margin: 4cm auto auto 3cm;
+}
+#sear
+{
+    margin: 1cm auto auto 0cm;
+}
